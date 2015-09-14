@@ -1,0 +1,44 @@
+ <div class="banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">I'm Nadim Abdelmalek.</h1>
+            <h3>I'm an Ottawa based <span>junior graphic designer</span>, and an<span>illustrator
+            learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
+            <hr />
+            <ul class="social">
+               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+            </ul>
+         </div>
+      </div>
+
+   </header> 
+    
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic" src="images/profile-picture.jpg" alt="profile-picture" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>About Me</h2>
+
+            <p> I am a third year Graphic Design student at Algonquin College. I am an aspiring Illustrator, and hopefully one day I will design posters for big name movies. I am a big fan for popculture and sci-fi movies.
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Nadim Abdelmalek</span><br>
+						   <span>(613)404-9099</span><br>
+                     <span>nadeem944@hotmail.com</span>
+					   </p>
+
+               </div>
