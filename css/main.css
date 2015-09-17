@@ -131,6 +131,15 @@ h2 {
     padding: .5rem 5%;
 }
 
+h3 {
+    
+    font-size: 1rem;
+    margin: 2rem 20%;
+    color: black; 
+    text-align: center;
+    padding: .5rem 5%;
+}
+
 .nav-top {
 	max-height: 0; 
     overflow: hidden;
